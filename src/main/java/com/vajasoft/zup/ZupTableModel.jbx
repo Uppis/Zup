@@ -1,0 +1,16 @@
+[PropertyInfo]
+columnClass,Class[],false,false, , ,true,<default>
+columnCount,int,false,false, , ,true,<default>
+columnName,String[],false,false, , ,true,<default>
+data,java.util.List,false,false, , ,false,<default>
+file,java.util.zip.ZipFile,false,false, , ,true,<default>
+formatter,java.text.Format,false,false, , ,false,<default>
+rowCount,int,false,false, , ,true,<default>
+SClasses,Class[],false,false, , ,false,<default>
+SHeaders,String[],false,false, , ,false,<default>
+uncompressedSize,long,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
